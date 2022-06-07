@@ -1,0 +1,152 @@
+body{
+    padding: 0;
+    margin: 0%;
+}
+
+header .top{
+    margin: 0%;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex;
+}
+.top-right{
+    width: 70%;
+    height: 80px;
+    
+}
+.top-left{
+    width: 30%;
+    height: 80px;
+}
+.logo{
+    margin-left: 100px;
+    background-size: cover;
+    height: 98px;
+    width: 173px;
+    background-image: url(image/kopiko\ emplom.png);
+    cursor: pointer;
+}
+a{
+    align-items: center;
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    
+    
+}
+nav{
+    color: white;
+    font-size: 20px;
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: 30px;
+    
+}
+a:hover{
+  color: red;
+  transform: scale(1.5);
+}
+.image-1{
+    height: 500px;
+    width: 100%;
+    background-image: url(image/1.jpg);
+
+}
+.black{
+    background-color: black;
+    height: 450px;
+    width: 100%;
+    display: flex;
+}
+.logo-2{
+    margin-left: 240px;
+    margin-top: 130px;
+    background-image: url(image/kopiko\ emplom.png);
+    background-size: cover;
+    height: 220px;
+    width: 390px
+    
+    
+}
+.black-left{
+      width: 50%;
+      height:400px;
+       
+}
+.black-right{
+    width: 50%;
+     height:400px;
+}
+.text-1{
+    color: white;
+    font-size: large;
+    font-family: 'helveticaneuebold',sans-serif;
+    letter-spacing: 1px;
+    line-height: 25px;
+    margin-top: 95px;
+    color: white; 
+}
+p{
+    color: white;
+}
+h1{
+    font-weight: 900;
+}
+.image-2{
+    height: 650px;
+    width: 100%;
+    background-image: url(image/2.jpg);
+}
+h3{
+
+    font-weight: 800;
+    font-family:' helveticaneuebold',sans-serif;
+    margin: 0;
+    font-size: 100px;
+    color: red;
+}
+#h3{
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-size: larger;
+    font-family: 'helveticaneueregular',sans-serif;
+    color: black;
+}
+.image-2-text{
+    padding-top: 80px;
+    margin-left: 600px;
+    text-align: justify;
+
+}
+
+.image-3{
+    padding-top: 100px;
+    height: 500px;
+    width: 100%;
+    background-image: url(image/3.jpg);
+}
+h2{
+    margin: 0;
+    color: white;
+    font-family: 'helveticaneuebold',sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 50px
+}
+#p{
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-size: larger;
+    font-family: 'helveticaneueregular',sans-serif;
+    color: rgb(255, 255, 255);
+}
+.image-3-text{
+    text-align: center;
+}
+
+.foot{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
